@@ -1,0 +1,119 @@
+Date 	Fixture 	KO 	GMT 	Venue 	Report
+Week One
+12 Feb 	Blues v Hurricanes 	19.35 	06.35 	North Shore City 	-
+12 Feb 	Western Force v Brumbies 	19.05 	11:05 	Perth 	-
+12 Feb 	Cheetahs v Bulls 	19.10 	17.10 	Bloemfontein 	-
+13 Feb 	Crusaders v Highlanders 	19.35 	06.35 	Christchurch 	-
+13 Feb 	Reds v Waratahs 	18.40 	08.40 	Brisbane 	-
+13 Feb 	Lions v Stormers 	17.05 	15.05 	Johannesburg 	-
+13 Feb 	Sharks v Chiefs 	19.10 	17.10 	Durban 	-
+Week Two
+19 Feb 	Highlanders v Blues 	19.35 	06.35 	Dunedin 	-
+19 Feb 	Reds v Crusaders 	19.45 	09.45 	Brisbane 	-
+19 Feb 	Sharks v Cheetahs 	18.00 	16.00 	Durban 	-
+19 Feb 	Lions v Chiefs 	20.00 	18.00 	Johannesburg 	-
+20 Feb 	Hurricanes v Western Force 	19.35 	06.35 	Wellington 	-
+20 Feb 	Bulls v Brumbies 	17.05 	15.05 	Pretoria 	-
+20 Feb 	Stormers v Waratahs 	19.10 	17.10 	Cape Town 	-
+Week Three
+26 Feb 	Crusaders v Sharks 	19.35 	06.35 	Christchurch 	-
+26 Feb 	Stormers v Brumbies 	19.10 	17.10 	Cape Town 	-
+27 Feb 	Hurricanes v Lions 	19.35 	06.35 	Wellington 	-
+27 Feb 	Reds v Blues 	18.40 	08.40 	Brisbane 	-
+27 Feb 	Western Force v Chiefs 	19.05 	11.05 	Perth 	-
+27 Feb 	Cheetahs v Highlanders 	17.05 	15.05 	Bloemfontein 	-
+27 Feb 	Bulls v Waratahs 	19.10 	17.10 	Pretoria 	-
+Week Four
+5 March 	Chiefs v Reds 	19.35 	06.35 	Hamilton 	-
+5 March 	Brumbies v Lions 	19.40 	08.40 	Canberra 	-
+6 March 	Crusaders v Blues 	19.35 	06.35 	Christchurch 	-
+6 March 	Waratahs v Sharks 	19.40 	08.40 	Sydney 	-
+6 March 	Stormers v Highlanders 	17.05 	15.05 	Cape Town 	-
+6 March 	Cheetahs v Hurricanes 	19.10 	17.10 	Bloemfontein 	-
+Byes - Bulls, Western Force
+Week Five
+12 March 	Chiefs v Crusaders 	19.35 	06.35 	Hamilton 	-
+12 March 	Waratahs v Lions 	19.40 	08.40 	Sydney 	-
+13 March 	Brumbies v Sharks 	19.40 	08.40 	Canberra 	-
+13 March 	Bulls v Highlanders 	17.05 	15.05 	Pretoria 	-
+13 March 	Stormers v Hurricanes 	19.10 	17.10 	Cape Town 	-
+14 March 	Reds v Western Force 	16.30 	06.30 	Brisbane 	-
+Byes - Cheetahs, Blues
+Week Six
+19 March 	Blues v Brumbies 	19.35 	06.35 	Auckland 	-
+19 March 	Bulls v Hurricanes 	19.10 	17.10 	Pretoria 	-
+20 March 	Crusaders v Lions 	17.30 	04.30 	Christchurch 	-
+20 March 	Highlanders v Sharks 	19.35 	06.35 	Dunedin 	-
+20 March 	Western Force v Waratahs 	19.10 	11.10 	Perth 	-
+20 March 	Stormers v Cheetahs 	17.05 	15.05 	Cape Town 	-
+Byes - Reds, Chiefs
+Week Seven
+26 March 	Highlanders v Lions 	19.35 	06.35 	Dunedin 	-
+26 March 	Brumbies v Chiefs 	19.40 	08.40 	Canberra 	-
+26 March 	Cheetahs v Reds 	19.10 	17.10 	Bloemfontein 	-
+27 March 	Hurricanes v Sharks 	19.35 	06.35 	Wellington 	-
+27 March 	Waratahs v Blues 	19.40 	08.40 	Sydney 	-
+27 March 	Western Force v Bulls 	19.10 	11.10 	Perth 	-
+Byes - Stormers, Crusaders
+Week Eight
+2 April 	Hurricanes v Crusaders 	19.35 	06.35 	Wellington 	-
+2 April 	Western Force v Stormers 	18.05 	10.05 	Perth 	-
+3 April 	Blues v Bulls 	17.30 	04.30 	Auckland 	-
+3 April 	Chiefs v Highlanders 	19.35 	06.35 	Mt Maunganui 	-
+3 April 	Waratahs v Cheetahs 	19.40 	08.40 	Sydney 	-
+3 April 	Sharks v Reds 	17.05 	15.05 	Durban 	-
+Byes - Brumbies, Lions
+Week Nine
+9 April 	Chiefs v Bulls 	19.35 	07.35 	Hamilton 	-
+10 April 	Highlanders v Western Force 	14.30 	02.30 	Queenstown 	-
+10 April 	Blues v Stormers 	17.30 	05.30 	Auckland 	-
+10 April 	Crusaders v Waratahs 	19.35 	07.35 	Christchurch 	-
+10 April 	Brumbies v Cheetahs 	19.40 	09.40 	Canberra 	-
+10 April 	Lions v Reds 	19.10 	17.10 	Johannesburg 	-
+Byes - Sharks, Hurricanes
+Week 10
+16 April 	Chiefs v Stormers 	19.35 	07.35 	Hamilton 	-
+16 April 	Brumbies v Hurricanes 	19.40 	09.40 	Canberra 	-
+17 April 	Blues v Western Force 	17.30 	05.30 	Auckland 	-
+17 April 	Crusaders v Cheetahs 	19.35 	07.35 	Christchurch 	-
+17 April 	Reds v Bulls 	19.40 	11.40 	Brisbane 	-
+17 April 	Lions v Sharks 	17.05 	15.05 	Johannesburg 	-
+Byes - Waratahs, Highlanders
+Week 11
+23 April 	Chiefs v Cheetahs 	19.35 	07.35 	Hamilton 	-
+23 April 	Reds v Stormers 	19.40 	09.40 	Brisbane 	-
+23 April 	Western Force v Crusaders 	19.45 	11.45 	Perth 	-
+24 April 	Highlanders v Hurricanes 	19.35 	07.35 	Dunedin 	-
+24 April 	Waratahs v Brumbies 	19.40 	09.40 	Sydney 	-
+24 April 	Bulls v Lions 	15.00 	13.00 	Pretoria 	-
+24 April 	Sharks v Blues 	17.05 	15.05 	Durban 	-
+Week 12
+30 April 	Highlanders v Waratahs 	19.35 	07.35 	Invercargill 	-
+30 April 	Stormers v Crusaders 	19.10 	17.10 	Cape Town 	-
+1 May 	Hurricanes v Chiefs 	19.35 	07.35 	Wellington 	-
+1 May 	Brumbies v Reds 	19.40 	09.40 	Canberra 	-
+1 May 	Cheetahs v Blues 	15.00 	13.00 	Bloemfontein 	-
+1 May 	Lions v Western Force 	17.05 	15.05 	Johannesburg 	-
+1 May 	Bulls v Sharks 	19.10 	17.10 	Pretoria 	-
+Week 13
+7 May 	Hurricanes v Reds 	19.35 	07.35 	Wellington 	-
+7 May 	Bulls v Crusaders 	19.10 	17.10 	Pretoria 	-
+8 May 	Chiefs v Waratahs 	19.35 	07.35 	Hamilton 	-
+8 May 	Brumbies v Highlanders 	19.40 	09.40 	Canberra 	-
+8 May 	Lions v Blues 	15.00 	13.00 	Johannesburg 	-
+8 May 	Cheetahs v Western Force 	17.05 	15.05 	Bloemfontein 	-
+8 May 	Sharks v Stormers 	19.10 	17.10 	Durban 	-
+Week 14
+14 May 	Crusaders v Brumbies 	19.35 	07.35 	Christchurch 	-
+14 May 	Waratahs v Hurricanes 	19.40 	09.40 	Sydney 	-
+14 May 	Sharks v Western Force 	19.10 	17.10 	Durban 	-
+15 May 	Blues v Chiefs 	19.35 	07.35 	Auckland 	-
+15 May 	Reds v Highlanders 	19.40 	09.40 	Brisbane 	-
+15 May 	Cheetahs v Lions 	15.00 	13.00 	Bloemfontein 	-
+15 May 	Stormers v Bulls 	17.05 	15.05 	Cape Town 	-
+Semi-finals
+21 May 	tbc 	tbc 	tbc 	tbc 	-
+22 May 	tbc 	tbc 	tbc 	tbc 	-
+Final
+29 May 	tbc
+	tbc 	tbc 	tbc 	-

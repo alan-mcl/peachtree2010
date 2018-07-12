@@ -1,0 +1,276 @@
+Chiefs
+1:Toby Smith
+2:Hikawera Elliot
+3:Ben Afeaki
+4:Craig Clarke
+5:Callum Retallick
+6:Liam Messam
+7:Tanerau Latimer
+8:Sione Lauaki
+9:Brendon Leonard
+10:Mike Delany
+11:Dwayne Sweeney
+12:Stephen Donald
+13:Richard Kahui
+14:Lelia Masaga
+15:Tim Nanai-Williams
+16:Vern Kamo
+17:Nathan White
+18:Romana Graham
+19:Colin Bourke
+20:Junior Poluleuligaga
+21:Callum Bruce
+22:Jackson Willison
+Stormers
+1:JD Moller
+2:Tiaan Liebenberg
+3:Brok Harris
+4:Adriaan Fondse
+5:Andries Bekker
+6:Schalk Burger
+7:Francois Louw
+8:Duane Vermeulen
+9:Dewaldt Duvenhage
+10:Peter Grant
+11:Bryan Habana
+12:Juan de Jongh
+13:Jaque Fourie
+14:Sireli Naqelevuki
+15:Gio Aplon
+16:Deon Fourie
+17:JC Kritzinger
+18:Anton van Zyl
+19:Pieter Louw
+20:Ricky Januarie
+21:Willem de Waal
+22:Tim Whitehead
+Brumbies
+1:Ben Alexander
+2:Stephen Moore
+3:Salesi Ma'afu
+4:Ben Hand
+5:Mark Chisholm
+6:Rocky Elsom
+7:Michael Hooper
+8:Stephen Hoiles
+9:Josh Valentine
+10:Matt Giteau
+11:Alfie Mafi
+12:Tyrone Smith
+13:Adam Ashley-Cooper
+14:Pat McCabe
+15:Julian Huxley
+16:Huia Edmonds
+17:Guy Shepherdson
+18:Justin Harrison
+19:Colby Faingaa
+20:Patrick Phibbs
+21:Andrew Smith
+22:Ed Stubbs
+Hurricanes
+1:John Schwalger
+2:Andrew Hore
+3:Neemia Tialata
+4:Jeremy Thrush
+5:Michael Paterson
+6:Victor Vito
+7:Nick Crosswell
+8:Rodney So'oialo
+9:Tyson Keats
+10:Aaron Cruden
+11:Hosea Gear
+12:Ma'a Nonu
+13:Conrad Smith
+14:Tamati Ellison
+15:Cory Jane
+16:Dane Coles
+17:Jacob Ellison
+18:Bryn Evans
+19:James Broadhurst
+20:Chris Eaton
+21:Willie Ripia
+22:Jason Kawau
+Blues
+1:Tony Woodcock
+2:Keven Mealamu
+3:John Afoa
+4:Kurtis Haiu
+5:Filo Paulo
+6:Jerome Kaino
+7:Tom Chamberlain
+8:Viliame Maafu
+9:Alby Mathewson
+10:Stephen Brett
+11:Rudi Wulf
+12:Luke McAlister
+13:Benson Stanley
+14:Josevata Rokocoko
+15:Isaia Toeava
+16:Tom McCartney
+17:Tevita Mailau
+18:Andrew van der Heidjen
+19:Peter Saili
+20:Chris Smylie
+21:Rene Ranger
+22:Paul Williams
+Force
+1:Nic Henderson
+2:Nathan Charles
+3:Tim Fairbrother
+4:Tom Hockings
+5:Nathan Sharpe
+6:Matt Hodgson
+7:David Pocock
+8:Richard Brown
+9:Chris O'Young
+10:David Hill
+11:Cameron Shepherd
+12:Ryan Cross
+13:Mitchell Inman
+14:Mark Bartholomeusz
+15:James O'Connor
+16:Ben Whittaker
+17:Matt Dunning
+18:Sam Wykes
+19:Ben McCalman
+20:Justin Turner
+21:Sam Harris
+22:Nick Cummins
+Crusaders
+1:Wyatt Crockett
+2:Tii Paulo
+3:Ben Franks
+4:Chris Jack
+5:Sam Whitelock
+6:George Whitelock
+7:Richie McCaw
+8:Thomas Waldrom
+9:Kahn Fotuali’i
+10:Daniel Carter
+11:Sean Maitland
+12:Ryan Crotty
+13:Tim Bateman
+14:Jared Payne
+15:Colin Slade
+16:Daniel Perrin
+17:Owen Franks
+18:Brad Thorn
+19:Jonathan Poff
+20:Andrew Ellis
+21:Daniel Bowden
+22:Zac Guildford
+Cheetahs
+1:Coenie Oosthuizen
+2:Adriaan Strauss
+3:WP Nel
+4:Izak van der Westhuizen
+5:Walti Vermeulen
+6:Hendro Scholtz
+7:Barend Pieterse
+8:Davon Raubenheimer
+9:Sarel Pretorius
+10:Riaan Viljoen
+11:Jongi Nokwe
+12:Barry Geel
+13:Corne Uys
+14:Danwel Demas
+15:Hennie Daniller
+16:Ryno Barnes
+17:Wian du Preez
+18:Nico Breedt
+19:Philip van der Walt
+20:Tewis de Bruyn
+21:Meyer Bosman
+22:Robert Ebersohn
+Reds
+1:Ben Daley
+2:Saia Faingaa
+3:Laurie Weeks
+4:Rob Simmons
+5:Van Humphries
+6:Scott Higginbotham
+7:Daniel Braid
+8:Leroy Houston
+9:Will Genia
+10:Quade Cooper
+11:Digby Ioane
+12:Anthony Faingaa
+13:Will Chambers
+14:Rod Davies
+15:Peter Hynes
+16:Sean Hardman
+17:Greg Holmes
+18:Jack Kennedy
+19:Ezra Taylor
+20:Jake Schatz
+21:Ben Lucas
+22:Brando Vaalu
+Bulls
+1:Gurthro Steenkamp
+2:Gary Botha
+3:Werner Kruger
+4:Danie Rossouw
+5:Victor Matfield
+6:Derick Kuun
+7:Dewald Potgieter
+8:Pierre Spies
+9:Fourie du Preez
+10:Morne Steyn
+11:Francois Hougaard
+12:Wynand Olivier
+13:Stephan Dippenaar
+14:Gerhard van den Heever
+15:Zane Kirchner
+16:Bandise Maku
+17:Bees Roux
+18:Flip van der Merwe
+19:Deon Stegmann
+20:Heini Adams
+21:Jacques-Louis Potgieter
+22:Pedrie Wannenburg
+Lions
+1:JC Janse van Rensburg
+2:Hans van Dyk
+3:Gert Muller
+4:Nico Luus
+5:Franco van der Merwe
+6:Cobus Grobbelaar
+7:Wikus van Heerden
+8:Todd Clever
+9:Jano Vermaak
+10:Herkie Kruger
+11:Wandile Mjekevu
+12:Doppies La Grange
+13:Marius Delport
+14:Tonderai Chavhanga
+15:Michael Killian
+16:Hannes Franklin
+17:Heinke van der Merwe
+18:Willem Stoltz
+19:Derick Minnie
+20:Chris Jonck
+21:Deon van Rensburg
+22:Carlos Spencer
+Sharks
+1:John Smit
+2:Bismarck du Plessis
+3:Jannie Du Plessis
+4:Steven Sykes
+5:Johann Muller
+6:Jacques Botes
+7:Jean Deysel
+8:Willem Alberts
+9:Ruan Pienaar
+10:Andy Goode
+11:JP Pietersen
+12:Riaan Swanepoel
+13:Stefan Terblanche
+14:Odwa Ndungane
+15:Patrick Lambie
+16:Craig Burden
+17:Tendai Mtawarira
+18:Wilhelm Steenkamp
+19:Alistair Hargreaves
+20:Rory Kockott
+21:Andries Strauss
+22:Lwazi Mvovo

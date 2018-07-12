@@ -1,0 +1,92 @@
+Bulls
+1:Gurthro Steenkamp
+2:Gary Botha
+3:Werner Kruger
+4:Danie Rossouw
+5:Victor Matfield
+6:Deon Stegmann
+7:Dewald Potgieter
+8:Pierre Spies
+9:Fourie du Preez
+10:Morne Steyn
+11:Francois Hougaard
+12:Wynand Olivier
+13:Jaco Pretorius
+14:Jaco van der Westhuyzen
+15:Zane Kirchner
+16:Bandise Maku
+17:Bees Roux
+18:Flip van der Merwe
+19:Derick Kuun
+20:Jacques-Louis Potgieter
+21:Stephan Dippenaar
+22:Pedrie Wannenburg
+Crusaders
+1:Ben Franks
+2:Tii Paulo
+3:Owen Franks
+4:Brad Thorn
+5:Sam Whitelock
+6:George Whitelock
+7:Richie McCaw
+8:Kieran Read
+9:Andrew Ellis
+10:Daniel Carter
+11:Zac Guildford
+12:Daniel Bowden
+13:Robert Fruean
+14:Sean Maitland
+15:Colin Slade
+16:Daniel Perrin
+17:Wyatt Crockett
+18:Chris Jack
+19:Thomas Waldrom
+20:Kahn Fotuali’i
+21:Tim Bateman
+22:Jared Payne
+Stormers
+1:Wicus Blaauw
+2:Tiaan Liebenberg
+3:Brok Harris
+4:Adriaan Fondse
+5:Andries Bekker
+6:Schalk Burger
+7:Francois Louw
+8:Duane Vermeulen
+9:Dewaldt Duvenhage
+10:Peter Grant
+11:Bryan Habana
+12:Juan de Jongh
+13:Jaque Fourie
+14:Gio Aplon
+15:Joe Pietersen
+16:Deon Fourie
+17:Eusebio Guinazu
+18:Anton van Zyl
+19:Pieter Louw
+20:Ricky Januarie
+21:Willem de Waal
+22:Tim Whitehead
+Waratahs
+1:Dan Palmer
+2:Tatafu Polota-Nau
+3:Al Baxter
+4:Dean Mumm
+5:Kane Douglas
+6:Patrick McCutcheon
+7:Phil Waugh
+8:Ben Mowen
+9:Luke Burgess
+10:Berrick Barnes
+11:Drew Mitchell
+12:Tom Carter
+13:Rob Horne
+14:Lachlan Turner
+15:Kurtley Beale
+16:Damien Fitzpatrick
+17:Jeremy Tilse
+18:Chris Thomson
+19:David Dennis
+20:Josh Holmes
+21:Daniel Halangahu
+22:Rory Sidey

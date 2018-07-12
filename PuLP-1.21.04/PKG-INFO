@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: PuLP
+Version: 1.21.04
+Summary: PuLP is an LP modeler written in python. PuLP can generate MPS or LP files
+and call GLPK[1], COIN CLP/CBC[2], CPLEX[3] and XPRESS[4] to solve linear
+problems.
+Home-page: http://www.esc.auckland.ac.nz/pulp/
+Author: J.S. Roy and S.A. Mitchell
+Author-email: s.mitchell@auckland.ac.nz
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

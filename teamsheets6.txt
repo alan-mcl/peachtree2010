@@ -1,0 +1,276 @@
+Blues
+1:Tony Woodcock
+2:Keven Mealamu
+3:John Afoa
+4:Kurtis Haiu
+5:Anthony Boric
+6:Jerome Kaino
+7:Serge Lilo
+8:Viliame Maafu
+9:Alby Mathewson
+10:Stephen Brett
+11:Rudi Wulf
+12:Benson Stanley
+13:Rene Ranger
+14:Josevata Rokocoko
+15:Isaia Toeava
+16:Tom McCartney
+17:Charlie Faumuina
+18:Filo Paulo
+19:Peter Saili
+20:Chris Smylie
+21:Daniel Kirkpatrick
+22:Paul Williams
+Brumbies
+1:Ben Alexander
+2:Stephen Moore
+3:Salesi Ma'afu
+4:Ben Hand
+5:Mark Chisholm
+6:Rocky Elsom
+7:George Smith
+8:Stephen Hoiles
+9:Josh Valentine
+10:Matt Giteau
+11:Francis Fainifo
+12:Christian Lealiifano
+13:Tyrone Smith
+14:Pat McCabe
+15:Adam Ashley-Cooper
+16:Huia Edmonds
+17:Jerry Yanuyanutawa
+18:Justin Harrison
+19:Mitchell Chapman
+20:Patrick Phibbs
+21:Matt Toomua
+22:Andrew Smith
+Bulls
+1:Gurthro Steenkamp
+2:Gary Botha
+3:Werner Kruger
+4:Danie Rossouw
+5:Victor Matfield
+6:Deon Stegmann
+7:Dewald Potgieter
+8:Pierre Spies
+9:Fourie du Preez
+10:Morne Steyn
+11:Francois Hougaard
+12:Wynand Olivier
+13:Stephan Dippenaar
+14:Gerhard van den Heever
+15:Zane Kirchner
+16:Bandise Maku
+17:Bees Roux
+18:Flip van der Merwe
+19:Derick Kuun
+20:Jacques-Louis Potgieter
+21:Jaco van der Westhuyzen
+22:Pedrie Wannenburg
+Lions
+1:JC Janse van Rensburg
+2:Hannes Franklin
+3:Ross Geldenhuys
+4:George Earl
+5:Franco van der Merwe
+6:Cobus Grobbelaar
+7:Derick Minnie
+8:Todd Clever
+9:Jano Vermaak
+10:Burton Francis
+11:Wandile Mjekevu
+12:Doppies La Grange
+13:Walter Venter
+14:Wigan Pekeur
+15:Earl Rose
+16:Charles Emslie
+17:Heinke van der Merwe
+18:Willem Stoltz
+19:Robert Kruger 
+20:Jacques Coetzee
+21:Carlos Spencer
+22:Michael Killian
+Waratahs
+1:Benn Robinson
+2:Tatafu Polota-Nau
+3:Al Baxter
+4:Dean Mumm
+5:Kane Douglas
+6:David Dennis
+7:Phil Waugh
+8:Wycliff Palu
+9:Luke Burgess
+10:Daniel Halangahu
+11:Drew Mitchell
+12:Berrick Barnes
+13:Tom Carter
+14:Lachlan Turner
+15:Sosene Anesi
+16:Damien Fitzpatrick
+17:Sekope Kepu
+18:Will Caldwell
+19:Ben Mowen 
+20:Josh Holmes
+21:Kurtley Beale
+22:Rob Horne
+Stormers
+1:Wicus Blaauw
+2:Tiaan Liebenberg
+3:Brok Harris
+4:Anton van Zyl
+5:Andries Bekker
+6:Schalk Burger
+7:Francois Louw
+8:Duane Vermeulen
+9:Dewaldt Duvenhage
+10:Peter Grant
+11:Bryan Habana
+12:Tim Whitehead
+13:Jaque Fourie
+14:Gio Aplon
+15:Joe Pietersen
+16:Deon Fourie
+17:JC Kritzinger
+18:De Kock Steenkamp
+19:Pieter Louw
+20:Ricky Januarie
+21:Willem de Waal
+22:Sireli Naqelevuki
+Cheetahs
+1:Wian du Preez
+2:Adriaan Strauss
+3:WP Nel
+4:Nico Breedt
+5:Walti Vermeulen 
+6:Hendro Scholtz
+7:Juan Smith
+8:Frans Viljoen
+9:Sarel Pretorius
+10:Naas Olivier
+11:Jongi Nokwe
+12:Meyer Bosman
+13:Robert Ebersohn
+14:Lionel Mapoe
+15:Hennie Daniller
+16:Ryno Barnes
+17:Coenie Oosthuizen
+18:Barend Pieterse
+19:Kabamba Floors
+20:Tewis de Bruyn
+21:Corne Uys
+22:Danwel Demas
+Hurricanes
+1:John Schwalger
+2:Andrew Hore
+3:Neemia Tialata
+4:Jeremy Thrush
+5:Michael Paterson
+6:Victor Vito
+7:Karl Lowe
+8:Rodney So'oialo
+9:Tyson Keats
+10:Willie Ripia
+11:Alapati Leiua
+12:Ma'a Nonu
+13:Conrad Smith
+14:Tamati Ellison
+15:Andre Taylor, 
+16:Dane Coles
+17:Jacob Ellison
+18:Bryn Evans
+19:Nick Crosswell
+20:Piri Weepu
+21:Aaron Cruden
+22:David Smith
+Highlanders
+1:Jamie Mackintosh
+2:Jason Rutledge
+3:Clint Newland
+4:Josh Bekhuis
+5:Hayden Triggs
+6:John Hardie
+7:Alando Soakai
+8:Adam Thomson
+9:Jimmy Cowan
+10:Robbie Robinson
+11:James Paterson
+12:Michael Hobbs
+13:Kendrick Lynn
+14:Ben Smith
+15:Israel Dagg
+16:Jason MacDonald
+17:Chris King
+18:Joe Tuineau
+19:Tim Boys
+20:Sean Romans
+21:Jayden Hayward
+22:Fetu'u Vainikolo
+Force
+1:Nic Henderson
+2:Ryan Tyrrell
+3:Tim Fairbrother
+4:Sam Wykes
+5:Nathan Sharpe
+6:Ben McCalman
+7:Matt Hodgson
+8:Richard Stanford
+9:Brett Sheehan
+10:David Hill
+11:Nick Cummins
+12:James O'Connor
+13:Ryan Cross
+14:Scott Staniforth
+15:Dane Haylett-Petty
+16:Ben Whittaker
+17:Kieran Longbottom
+18:Tom Hockings
+19:Luke Jones
+20:Chris O'Young
+21:Sam Harris
+22:Mitchell Inman
+Crusaders
+1:Ben Franks
+2:Tii Paulo
+3:Owen Franks
+4:Sam Whitelock
+5:Isaac Ross
+6:Richie McCaw
+7:Jonathan Poff
+8:Thomas Waldrom
+9:Kahn Fotuali’i
+10:Colin Slade
+11:Zac Guildford
+12:Ryan Crotty
+13:Adam Whitelock
+14:Sean Maitland
+15:Jared Payne 
+16:Corey Flynn
+17:Wyatt Crockett
+18:Chris Jack
+19:George Whitelock
+20:Willi Heinz
+21:Daniel Carter
+22:Robert Fruean
+Sharks
+1:Tendai Mtawarira
+2:Bismarck du Plessis
+3:John Smit
+4:Steven Sykes
+5:Johann Muller
+6:Jacques Botes
+7:Willem Alberts
+8:Ryan Kankowski
+9:Ruan Pienaar
+10:Andy Goode
+11:JP Pietersen
+12:Riaan Swanepoel
+13:Adrian Jacobs
+14:Odwa Ndungane
+15:Stefan Terblanche
+16:Craig Burden
+17:Jannie Du Plessis
+18:Alistair Hargreaves
+19:Jean Deysel
+20:Keegan Daniel
+21:Rory Kockott
+22:Waylon Murray
